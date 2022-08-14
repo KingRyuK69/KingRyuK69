@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingryuk69&label=Profile%20views&color=0e75b6&style=flat" alt="kingryuk69" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sohomneogi" target="blank"><img src="https://img.shields.io/twitter/follow/sohomneogi?logo=twitter&style=for-the-badge" alt="sohomneogi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/soulavaels" target="blank"><img src="https://img.shields.io/twitter/follow/soulavaels?logo=twitter&style=for-the-badge" alt="soulavaels" /></a> </p>
 
 - 🔭 I’m currently working on **Crypto Tracker**
 
