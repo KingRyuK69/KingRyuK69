@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Crypto Tracker**
 
-- 🌱 I’m currently learning **Frameworks, Backend**
+- 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/acer/OneDrive/Desktop/project/Sohom%20Neogi.html](file:///C:/Users/acer/OneDrive/Desktop/project/Sohom%20Neogi.html)
-
-- 💬 Ask me about **React, Cloud Computing**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **sohom179@gmail.com**
 
