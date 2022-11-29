@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sohom179@gmail.com**
 
-- ⚡ Fun fact is **I think more than half of Shakespeare's characters die in the same way**
+- ⚡**I think more than half of Shakespeare's characters die in the same way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
