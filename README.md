@@ -1,21 +1,21 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sohomneogi.io)
 
 <h1 align="center">Bonjour 👋, This is Sohom Neogi</h1>
-<h3 align="center">A frontend weeb </h3>
+<h3 align="center">A Frontend Weeb </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingryuk69&label=Profile%20views&color=0e75b6&style=flat" alt="kingryuk69" /> </p>
 
 <p align="left"> <a href="https://twitter.com/soulavaels" target="blank"><img src="https://img.shields.io/twitter/follow/soulavaels?logo=twitter&style=for-the-badge" alt="soulavaels" /></a> </p>
 
-- 🔭 I’m currently working on **Crypto Tracker**
+- 🔭 I’m currently working on a **Crypto Tracker**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Mern and Frameworks**
 
 - 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **sohom179@gmail.com**
 
-- ⚡ Fun fact **I think more than half of Shakespeare's characters die in the same way**
+- ⚡ Fun fact is **I think more than half of Shakespeare's characters die in the same way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
