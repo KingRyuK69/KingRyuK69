@@ -61,6 +61,6 @@
 
 <p><img align="center" src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact" alt="kingryuk69" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingryuk69&show_icons=true&locale=en" alt="kingryuk69" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-9eyh.vercel.app/api?username=kingryuk69&show_icons=true&locale=en" alt="kingryuk69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&" alt="kingryuk69" /></p>
