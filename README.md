@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sohomneogi.io)
+[![MasterHead](https://github.com/KingRyuK69/KingRyuK69/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.gif)](https://sohomneogi.io)
 
 <h1 align="center">Bonjour 👋, This is Sohom Neogi</h1>
 <h3 align="center">A Passionate Dev </h3>
@@ -9,7 +9,11 @@
     <a href="https://twitter.com/soulavaels" target="blank"><img src="https://img.shields.io/twitter/follow/soulavaels?logo=twitter&style=for-the-badge" alt="soulavaels" /></a>
 </p>
 
-- 🔭 I’m currently working on a **Devops** - 🌱 I’m currently learning **Mern Stack** - 💬 Ask me about **Cloud Computing** - 📫 How to reach me **sohom179@gmail.com** - ⚡**I think more than half of Shakespeare's characters die in the same way**
+- 🔭 I’m currently working on a **Devops**
+- 🌱 I’m currently learning **Mern Stack**
+- 💬 Ask me about **Cloud Computing** 
+- 📫 How to reach me **sohom179@gmail.com** 
+- ⚡**I think more than half of Shakespeare's characters die in the same way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,12 +59,13 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/sohom179G"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohom179G" /></a>
+<p><a href="https://www.buymeacoffee.com/sohom179G"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohom179G" /></a>
 </p><br>
 
-<p><img align="center" src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact" alt="kingryuk69" /></p>
+<p><img align="center" src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact" alt="kingryuk69" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-9eyh.vercel.app/api?username=kingryuk69&show_icons=true&locale=en" alt="kingryuk69" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-9eyh.vercel.app/api?username=kingryuk69&show_icons=true&locale=en" alt="kingryuk69" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&" alt="kingryuk69" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&" alt="kingryuk69" /></p><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingryuk69" alt="kingryuk69" /></a> </p> <br>
