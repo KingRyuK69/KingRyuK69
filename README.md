@@ -59,7 +59,7 @@
     <a href="https://www.buymeacoffee.com/sohom179G"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohom179G" /></a>
 </p><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact" alt="kingryuk69" /></p>
+<p><img align="center" src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact" alt="kingryuk69" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingryuk69&show_icons=true&locale=en" alt="kingryuk69" /></p>
 
