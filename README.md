@@ -57,15 +57,14 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
 </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sohom179G"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohom179G" /></a>
 </p><br>
 
-<p><img align="center" src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact&theme=radical" alt="kingryuk69" /></p><br>
+<p align="center"><img src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact&theme=radical" alt="kingryuk69" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-9eyh.vercel.app/api?username=kingryuk69&show_icons=true&locale=en&theme=radical" alt="kingryuk69" /></p><br>
+<p align="center">&nbsp;<img src="https://github-readme-stats-9eyh.vercel.app/api?username=kingryuk69&show_icons=true&locale=en&theme=radical" alt="kingryuk69" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&theme=radical" alt="kingryuk69" /></p><br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&theme=radical" alt="kingryuk69" /></p><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingryuk69&theme=radical" alt="kingryuk69" /></a> </p> <br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingryuk69&theme=radical" alt="kingryuk69" /></a> </p> <br>
