@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingryuk69&label=Profile%20views&color=0e75b6&style=flat" alt="kingryuk69" /> </p>
 
 <p align="left">
-    <a href="https://twitter.com/soulavaels" target="blank"><img src="https://img.shields.io/twitter/follow/soulavaels?logo=twitter&style=for-the-badge" alt="soulavaels" /></a>
-</p>
+    <a href="https://twitter.com/soulavaels" target="blank"><img src="https://img.shields.io/twitter/follow/soulavaels?color=1D1AF2&logo=Twitter&style=plastic" alt="soulavaels" /></a> 
 
 - 🔭 I’m currently working on a **Devops**
 - 🌱 I’m currently learning **Mern Stack**
