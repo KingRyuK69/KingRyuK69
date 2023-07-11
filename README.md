@@ -60,9 +60,9 @@
 <p><a href="https://www.buymeacoffee.com/sohom179G"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohom179G" /></a>
 </p><br>
 
-/*<p align="center"><img src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact&theme=radical" alt="kingryuk69" /></p><br>*/
+<p align="center"><img src="https://github-readme-stats-9eyh.vercel.app/api/top-langs?username=kingryuk69&show_icons=true&locale=en&layout=compact&theme=radical" alt="kingryuk69" /></p><br>
 
-/*<p align="center">&nbsp;<img src="https://github-readme-stats-9eyh.vercel.app/api?username=kingryuk69&show_icons=true&locale=en&theme=radical" alt="kingryuk69" /></p><br>*/
+<p align="center">&nbsp;<img src="https://github-readme-stats-9eyh.vercel.app/api?username=kingryuk69&show_icons=true&locale=en&theme=radical" alt="kingryuk69" /></p><br>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&theme=radical" alt="kingryuk69" /></p><br>
 
