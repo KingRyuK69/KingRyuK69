@@ -1,10 +1,7 @@
 ![Black and Red Gradient Professional LinkedIn Banner](https://github.com/KingRyuK69/KingRyuK69/assets/80317920/5684902c-aa32-472d-ada1-8787fa519cb3)
 
-<h1 align="center">Bonjour 👋, This is ....</h1>
-<h3 align="center">A Passionate Dev </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingryuk69&label=Profile%20views&color=0e75b6&style=flat" alt="kingryuk69" /> </p>
+<h1 align="center">Hello, I'm a Software Engineer Aspirant.</h1>
 
-<p align="left">
     <a href="https://twitter.com/soulavaels" target="blank"><img src="https://img.shields.io/twitter/follow/soulavaels?color=1D1AF2&logo=Twitter&style=plastic" alt="soulavaels" /></a> 
 
 - 🔭 I’m currently working on a **Devops**
