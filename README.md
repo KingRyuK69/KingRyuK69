@@ -59,22 +59,13 @@ I'm a software engineer at **[Rezolve AI](https://rezolve.com/)**, building the 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kingryuk69&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingryuk69&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=kingryuk69&theme=radical&hide_border=true" alt="kingryuk69"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kingryuk69&theme=radical&no-frame=true&row=1&column=7" alt="kingryuk69"/>
 
 </div>
 
 <br/>
 
-### 📈 Deep metrics
+### 📈 GitHub activity
 
 <div align="center">
 
