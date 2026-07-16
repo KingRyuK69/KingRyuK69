@@ -74,6 +74,16 @@ I'm a software engineer at **[Rezolve AI](https://rezolve.ai)**, building the AI
 
 <br/>
 
+### 📈 Deep metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KingRyuK69/KingRyuK69/main/github-metrics.svg" alt="kingryuk69's GitHub metrics"/>
+
+</div>
+
+<br/>
+
 ### 🔗 Find me elsewhere
 
 <div align="center">
