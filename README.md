@@ -1,61 +1,95 @@
-![Black and Red Gradient Professional LinkedIn Banner](https://github.com/KingRyuK69/KingRyuK69/assets/80317920/5684902c-aa32-472d-ada1-8787fa519cb3)
+<div align="center">
 
-<h1 align="center">Moshi Moshi</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=220&section=header&text=Sohom%20Neogi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SWE%20(AI%20%2B%20Backend)%20@%20Rezolve%20AI&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingryuk69&label=Profile%20views&color=0e75b6&style=flat" alt="kingryuk69" /> </p>
-<p align="left">
-    <a href="https://twitter.com/soulavaels" target="blank"><img src="https://img.shields.io/twitter/follow/soulavaels?color=1D1AF2&logo=Twitter&style=plastic" alt="soulavaels" /></a> 
+<a href="https://linkedin.com/in/sohom-neogi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/sohomneogi">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:sohom179@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/sohom179">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-- 🔭 I’m currently working as SWE (Ai + Backend) @ **Rezolve Ai**
-- 📫 How to reach me **sohom179@gmail.com** 
-- ⚡**I think more than half of Shakespeare's characters die in the same way**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/sohomneogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohomneogi" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/sohom-neogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohom-neogi" height="30" width="40" /></a>
-    <a href="https://kaggle.com/sohomneogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sohomneogi" height="30" width="40" /></a>
-    <a href="https://fb.com/sohom neogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sohom neogi" height="30" width="40" /></a>
-    <a href="https://instagram.com/soulavaels_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soulavaels_._" height="30" width="40" /></a>
-    <a href="https://medium.com/@sohomneogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sohomneogi" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/kingryuk69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kingryuk69" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/kingryuk_69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kingryuk_69" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/sohom179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sohom179" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/sohom179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohom179" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/sohom179/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sohom179/profile" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=kingryuk69&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-</p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sohom179G"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohom179G" /></a>
-</p><br>
+</div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&theme=radical" alt="kingryuk69" /></p><br>
+<br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingryuk69&theme=radical" alt="kingryuk69" /></a> </p> <br>
+### 👋 About me
+
+I'm a software engineer at **[Rezolve AI](https://rezolve.ai)**, building the AI stack behind next‑generation hospitality experiences — voice and chat concierge agents that handle real guest requests end to end.
+
+- 🏨 Working on multi‑agent AI systems for guest services — reservations, concierge requests, and unified guest communication — combining real‑time voice pipelines with LLM orchestration.
+- 🕸️ Design and build multi‑agent workflows with **LangGraph**, exposing tools to agents through **MCP (Model Context Protocol)** servers.
+- 🎙️ Ship real‑time voice AI on **LiveKit** + **Pipecat**, wired into telephony (Twilio) and web clients.
+- ⚙️ Backend in **Python / FastAPI**, frontends in **React + TypeScript**, services containerized with **Docker** and secured via **Keycloak IAM**.
+- 🌱 Currently deep in agent reliability — memory, handoffs, and evaluation for production multi-agent systems.
+- ⚡ Fun fact: I think more than half of Shakespeare's characters die the same way.
+
+<br/>
+
+### 🛠️ Tech I work with
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kingryuk69&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingryuk69&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&theme=radical&hide_border=true" alt="kingryuk69"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kingryuk69&theme=radical&no-frame=true&row=1&column=7" alt="kingryuk69"/>
+
+</div>
+
+<br/>
+
+> 💡 Want deeper metrics (isometric commit calendar, coding habits, achievements)? Set up [lowlighter/metrics](https://github.com/lowlighter/metrics) — I've left a ready-to-use workflow at `.github/workflow-templates/metrics.yml.example` in this repo; move it to `.github/workflows/metrics.yml` and add a `METRICS_TOKEN` secret (scopes: `repo`, `read:user`, `read:org`) to activate it.
+
+<br/>
+
+### 🔗 Find me elsewhere
+
+<div align="center">
+
+<a href="https://kaggle.com/sohomneogi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="kaggle"/></a>
+<a href="https://www.hackerrank.com/sohom179" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="hackerrank"/></a>
+<a href="https://www.codechef.com/users/kingryuk_69" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" alt="codechef"/></a>
+<a href="https://auth.geeksforgeeks.org/user/sohom179/profile" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" alt="gfg"/></a>
+<a href="https://medium.com/@sohomneogi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="medium"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0f172a&height=100&section=footer" width="100%"/>
