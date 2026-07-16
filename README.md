@@ -64,17 +64,13 @@ I'm a software engineer at **[Rezolve AI](https://rezolve.ai)**, building the AI
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kingryuk69&theme=radical&hide_border=true" alt="kingryuk69"/>
+<img src="https://streak-stats.demolab.com/?user=kingryuk69&theme=radical&hide_border=true" alt="kingryuk69"/>
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=kingryuk69&theme=radical&no-frame=true&row=1&column=7" alt="kingryuk69"/>
 
 </div>
-
-<br/>
-
-> 💡 Want deeper metrics (isometric commit calendar, coding habits, achievements)? Set up [lowlighter/metrics](https://github.com/lowlighter/metrics) — I've left a ready-to-use workflow at `.github/workflow-templates/metrics.yml.example` in this repo; move it to `.github/workflows/metrics.yml` and add a `METRICS_TOKEN` secret (scopes: `repo`, `read:user`, `read:org`) to activate it.
 
 <br/>
 
