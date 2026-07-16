@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=220&section=header&text=Sohom%20Neogi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SWE%20(AI%20%2B%20Backend)%20@%20Rezolve%20AI&descAlignY=55&descAlign=50" width="100%"/>
 
-<a href="https://linkedin.com/in/sohom-neogi">
+<a href="https://www.linkedin.com/in/sohom-neogi-a21754221/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/sohomneogi">
