@@ -25,7 +25,7 @@
 
 ### 👋 About me
 
-I'm a software engineer at **[Rezolve AI](https://rezolve.ai)**, building the AI stack behind next‑generation hospitality experiences — voice and chat concierge agents that handle real guest requests end to end.
+I'm a software engineer at **[Rezolve AI](https://rezolve.com/)**, building the AI stack behind next‑generation hospitality experiences — voice and chat concierge agents that handle real guest requests end to end.
 
 - 🏨 Working on multi‑agent AI systems for guest services — reservations, concierge requests, and unified guest communication — combining real‑time voice pipelines with LLM orchestration.
 - 🕸️ Design and build multi‑agent workflows with **LangGraph**, exposing tools to agents through **MCP (Model Context Protocol)** servers.
